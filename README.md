@@ -1,4 +1,4 @@
-# company-hp
+# Company Home Page
  
 Website project showing a standard homepage of a company.
 
