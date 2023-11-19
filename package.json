@@ -1,0 +1,13 @@
+{
+  "name": "company-hp",
+  "version": "1.0.0",
+  "description": "Website project showing a standard homepage of a company.",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch sass:styles",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["html", "css", "javascript", "jquery", "scss"],
+  "author": "Fukazawa Mana",
+  "license": "ISC"
+}
